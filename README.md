@@ -16,5 +16,4 @@
 
 ## Links
 - [Twitter](<https://twitter.com/kevinzhow>)
-- [Github](<https://github.com/kevinzhow>)
 - [Linktree](<https://linktr.ee/kevinzhow>)

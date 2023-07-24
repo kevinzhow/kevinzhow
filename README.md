@@ -5,11 +5,11 @@
 - Qingdao, China
 
 ## Products
-[KanaOrigin - Learn Japanese from Origin](<https://apps.apple.com/us/app/kana-origin/id1439222882>)
+KanaOrigin - Learn Japanese from Origin [iOS](<https://apps.apple.com/us/app/kana-origin/id1439222882>) [Android](<https://play.google.com/store/apps/details?id=com.kevinzhow.kanaoriginlite&hl=en_US)>)
 
-[Oyomi - Japanese Analyzer](<https://apps.apple.com/us/app/oyomi-japanese-reader/id1474251984>)
+Oyomi - Japanese Analyzer [iOS](<https://apps.apple.com/us/app/oyomi-japanese-reader/id1474251984>) [Android](<https://play.google.com/store/apps/details?id=com.kevinzhow.pengdu&hl=en_US)>)
 
-[Hanami - Japanese Handwritten Keyboard](<https://apps.apple.com/us/app/hanami-japanese-handwritten/id6447871085>)
+Hanami - Japanese Handwritten Keyboard [iOS](<https://apps.apple.com/us/app/hanami-japanese-handwritten/id6447871085>)
 
 ## Book
 [PRODUCTER  Build a product from 0 to 1](<https://producter.app/>)

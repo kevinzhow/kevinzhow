@@ -5,7 +5,7 @@
 - Qingdao, China
 
 ## Products
-KanaOrigin - Learn Japanese from Origin [iOS](<https://apps.apple.com/us/app/kana-origin/id1439222882>) [Android](<https://play.google.com/store/apps/details?id=com.kevinzhow.kanaoriginlite&hl=en_US)>)
+Kana Origin - Learn Japanese from Origin [iOS](<https://apps.apple.com/us/app/kana-origin/id1439222882>) [Android](<https://play.google.com/store/apps/details?id=com.kevinzhow.kanaoriginlite&hl=en_US)>)
 
 Oyomi - Japanese Analyzer [iOS](<https://apps.apple.com/us/app/oyomi-japanese-reader/id1474251984>) [Android](<https://play.google.com/store/apps/details?id=com.kevinzhow.pengdu&hl=en_US)>)
 

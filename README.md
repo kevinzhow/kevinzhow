@@ -17,3 +17,4 @@
 ## Links
 - [Twitter](<https://twitter.com/kevinzhow>)
 - [Linktree](<https://linktr.ee/kevinzhow>)
+- [Blog](<https://blog.kevinzhow.com>)

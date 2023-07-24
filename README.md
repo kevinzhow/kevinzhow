@@ -17,4 +17,4 @@ Hanami - Japanese Handwritten Keyboard [iOS](<https://apps.apple.com/us/app/hana
 ## Links
 - [Twitter](<https://twitter.com/kevinzhow>)
 - [Linktree](<https://linktr.ee/kevinzhow>)
-- [Blog](<https://blog.kevinzhow.com>)
+- Blog [Chinese](<https://blog.kevinzhow.com>) [English](<https://medium.com/@kevinzhow>)
